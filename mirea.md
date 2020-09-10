@@ -2,7 +2,7 @@
 ### Информатика
 ---
 #### Лекции
->*Пока информации нет*
++ [Лекция по информатике 1 семестр](https://github.com/ShamelessLad/mirea/tree/Shameless-patch/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8)
 #### Практика
 + [Архив с методичкой и практическими заданиями](https://cloud.mirea.ru/index.php/s/QDRnJwLQor5Ck4J)
 + Процесс сдачи практических работ:
