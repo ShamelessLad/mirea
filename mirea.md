@@ -45,7 +45,16 @@
 ### Физика
 ---
 #### Лекции
->*Пока информации нет*
++ [1 лекция](https://youtu.be/lEjs-yKy5hk)
++ [2 лекция](https://youtu.be/2Oo3GgT36H4)
++ [3 лекция](https://youtu.be/A-_6hSCfTUg)
++ [4 лекция](https://youtu.be/SSZjP3lHsv8)
++ [5 лекция](https://youtu.be/16NguPTeLWE)
++ [6 лекция](https://youtu.be/pPHrw_ZBRPc)
++ [7 лекция](https://youtu.be/Txt32QohqPI)
++ [8 лекция](https://youtu.be/YDAYA8H1m1k)
++ [9 лекция](https://youtu.be/zY2brGsWg00)
++ [10 лекция](https://youtu.be/qwvAbdt7n_Q)
 #### Практика
 >*Пока информации нет*
 ---
