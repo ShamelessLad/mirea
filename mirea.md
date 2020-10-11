@@ -71,6 +71,7 @@
 	- 60 баллов - 3
 + Дополнительные баллы за пиьсменные работы, конспекты лекций, отчеты и т.д.
 + Почта для письменных работ и отчетов - gusyan@bk.ru
+---
 <p align="center">
   <img src="https://media.giphy.com/media/SXlWq2CwGszP4t4KwS/giphy.gif" alt="retard"/>
 </p>
