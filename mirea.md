@@ -27,6 +27,7 @@
 + Репы ребят с домашними заданиями
 	- [Реп](https://github.com/Un57a6L3/unicpp) [Сени](https://vk.com/un57a6l3)
 	- [Реп](https://github.com/krewaz234/mirea_dz) [Миши](https://vk.com/summerrr_rain)
++ [Распределение тем докладов](https://docs.google.com/spreadsheets/d/10S_xq_KsYQgpKCZqpPIoEWgJlkRfezFai_IVKxgRNYA/edit?usp=sharing)
 ---
 ### [Математический анализ](http://math.fel.mirea.ru/)
 ---
@@ -71,6 +72,7 @@
 #### Лекции
 >*Пока информации нет*
 #### Практика
++ [Распределение тем докладов](https://docs.google.com/spreadsheets/d/1Q8_epyY0PJPJf2HR64MGs0WqCsu_uosk45bSOlQFhUo/edit?usp=sharing)
 + Балльно-рейтинговая система
 	- 80 баллов - 5
 	- 70 баллов - 4
