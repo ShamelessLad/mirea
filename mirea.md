@@ -7,6 +7,7 @@
 	- [6 лекция](https://youtu.be/KK_FUWqNdHI)
 	- [7 лекция](https://youtu.be/9WKAopY9eFE)
 	- [8 лекция](https://youtu.be/Gc3MGjeELTk)
+	- [9 лекция](https://youtu.be/1u-gOF0Jhag)
 	- [10 лекция](https://youtu.be/oE2cEqSOVFA)
 #### Практика
 + [Архив с методичкой и практическими заданиями](https://cloud.mirea.ru/index.php/s/QDRnJwLQor5Ck4J)
