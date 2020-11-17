@@ -67,6 +67,7 @@
 	- [8 лекция](https://youtu.be/YDAYA8H1m1k)
 	- [9 лекция](https://youtu.be/zY2brGsWg00)
 	- [10 лекция](https://youtu.be/qwvAbdt7n_Q)
+	- [11 лекция](https://youtu.be/qPWcFraLezM)
 #### Практика
 >*Пока информации нет*
 ---
