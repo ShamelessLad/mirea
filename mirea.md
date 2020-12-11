@@ -3,12 +3,8 @@
 ### Информатика
 ---
 #### Лекции
-+ [Лекции по информатике 1 семестр](https://github.com/ShamelessLad/mirea/tree/Shameless-patch/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8)
-	- [6 лекция](https://youtu.be/KK_FUWqNdHI)
-	- [7 лекция](https://youtu.be/9WKAopY9eFE)
-	- [8 лекция](https://youtu.be/Gc3MGjeELTk)
-	- [9 лекция](https://youtu.be/1u-gOF0Jhag)
-	- [10 лекция](https://youtu.be/oE2cEqSOVFA)
++ [Лекции по информатике 1 семестра](https://github.com/ShamelessLad/mirea/tree/Shameless-patch/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8)
++ [Облако с видео-лекциями 1 семестра](https://cloud.mirea.ru/index.php/s/KGCr2w9re6nK5mn)
 #### Практика
 + [Архив с методичкой и практическими заданиями](https://cloud.mirea.ru/index.php/s/QDRnJwLQor5Ck4J)
 + Процесс сдачи практических работ:
