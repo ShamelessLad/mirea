@@ -1,6 +1,7 @@
 # Полезная информация по дисциплинам, изучаемым на ИТ. Автор: [Мурадов Камил](https://vk.com/kurigohan_et_kamehameha) ИКБО-01-20. Если хотите дополнить/исправить, пишите в лс или делайте реквесты
 
 <p align="center">
+  Расписание коснультаций и экзаменов (полезные файлы с консультаций в <a href="https://t.me/joinchat/AAAAAFHsxeR7u9XkiuboAA">телеграм канале</a> группы).
   <img src="https://i.imgur.com/YeN2S6I.png" alt="retard"/>
 </p>
 
