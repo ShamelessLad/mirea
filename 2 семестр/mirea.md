@@ -43,5 +43,5 @@
 >*Пока информации нет*
 ---
 <p align="center">
-  <img src="https://i.imgur.com/IV0bmRp.jpg" alt="fag"/>
+  <img src="[img]https://i.imgur.com/oSMqKhf.jpg" alt="fag"/>
 </p>
